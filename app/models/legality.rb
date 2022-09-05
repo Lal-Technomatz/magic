@@ -1,0 +1,2 @@
+class Legality < ApplicationRecord
+end
