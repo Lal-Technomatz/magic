@@ -1,2 +1,0 @@
-class Sett < ApplicationRecord
-end

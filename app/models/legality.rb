@@ -1,2 +1,0 @@
-class Legality < ApplicationRecord
-end

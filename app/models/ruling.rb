@@ -1,2 +1,0 @@
-class Ruling < ApplicationRecord
-end
