@@ -10,7 +10,6 @@ Rails.application.routes.draw do
           get 'cards_group_by_set'
           get 'cards_group_by_set_group_by_rarity'
           get 'cards_from_KTK'
-          get 'fetch_action'
         end
       end
     end
